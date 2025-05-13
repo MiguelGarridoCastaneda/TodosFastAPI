@@ -2,7 +2,6 @@
 /TodoApp/__pycache__/
 /TodoApp/test/
 /TodoApp/archivo_usuarios.txt
-/TodoApp/todosapp.db
 /TodoApp/alembic/__pycache__/
 /TodoApp/alembic/versions/__pycache__/
 /TodoApp/routers/__pycache__/
